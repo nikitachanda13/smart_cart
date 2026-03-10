@@ -192,7 +192,7 @@ SmartCart-Clustering
 ### 1️⃣ Clone the Repository
 
 ```
-git clone https://github.com/your-nikitachanda13/smartcart-clustering.git
+git clone https://github.com/nikitachanda13/smart_cart.git
 ```
 
 ### 2️⃣ Navigate to the Project Folder
